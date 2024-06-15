@@ -1,0 +1,1 @@
+The provided Streamlit app script creates a "Data Exploration Dashboard" that allows users to upload a CSV file, view summary statistics, and generate various types of plots based on the uploaded data. 
